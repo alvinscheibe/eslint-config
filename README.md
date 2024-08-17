@@ -13,11 +13,11 @@
 ### React (with Next.js)
 
 Install dependencies:
-```
+```console
 npm i -D eslint @alvinscheibe/eslint-config
 ```
 Inside `.eslintrc.json`
-```
+```json
 {
   "extends": [
     "@alvinscheibe/eslint-config/next", 
@@ -29,11 +29,11 @@ Inside `.eslintrc.json`
 ### React (without Next.js)
 
 Install dependencies:
-```
+```console
 npm i -D eslint @alvinscheibe/eslint-config
 ```
 Inside `.eslintrc.json`
-```
+```json
 {
   "extends": "@alvinscheibe/eslint-config/react"
 }
@@ -42,11 +42,11 @@ Inside `.eslintrc.json`
 ### Node.js
 
 Install dependencies:
-```
+```console
 npm i -D eslint @alvinscheibe/eslint-config
 ```
 Inside `.eslintrc.json`
-```
+```json
 {
   "extends": "@alvinscheibe/eslint-config/node"
 }
