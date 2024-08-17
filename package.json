@@ -6,7 +6,7 @@
   "main": "index.js",
   "license": "MIT",
   "repository": {
-    "url": "alvinscheibe/eslint-config"
+    "url": "git+https://github.com/alvinscheibe/eslint-config.git"
   },
   "peerDependencies": {
     "eslint": "^8.0.0",
@@ -31,5 +31,10 @@
     "eslint-plugin-react": "^7.33.2",
     "eslint-plugin-react-hooks": "^4.6.0",
     "prettier": "^3.2.5"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/alvinscheibe/eslint-config/issues"
+  },
+  "homepage": "https://github.com/alvinscheibe/eslint-config#readme",
+  "author": "Alvin Scheibe"
 }
