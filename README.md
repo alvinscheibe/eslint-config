@@ -14,7 +14,7 @@
 
 Install dependencies:
 ```console
-npm i -D eslint @alvinscheibe/eslint-config
+npm i -D @alvinscheibe/eslint-config
 ```
 Inside `.eslintrc.json`
 ```json
@@ -30,7 +30,7 @@ Inside `.eslintrc.json`
 
 Install dependencies:
 ```console
-npm i -D eslint @alvinscheibe/eslint-config
+npm i -D @alvinscheibe/eslint-config
 ```
 Inside `.eslintrc.json`
 ```json
@@ -43,7 +43,7 @@ Inside `.eslintrc.json`
 
 Install dependencies:
 ```console
-npm i -D eslint @alvinscheibe/eslint-config
+npm i -D @alvinscheibe/eslint-config
 ```
 Inside `.eslintrc.json`
 ```json
